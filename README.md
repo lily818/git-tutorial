@@ -1,2 +1,2 @@
 #Git book
- -feature-A
+ -feature-B
